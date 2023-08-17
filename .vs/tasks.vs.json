@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-cs_m8",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
